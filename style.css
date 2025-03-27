@@ -1,0 +1,122 @@
+body {
+    background-position: fixed;
+    background-attachment: fixed;
+    background-image: url(cop.jpg);
+    margin: 0;
+}
+
+#ki {
+    font-family: 'Kaushan Script', cursive;
+}
+
+h1 {
+    font-family: 'Kaushan Script', cursive;
+}
+
+
+#video {
+    width: 90%;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 40px;
+}
+
+.threeCards:hover {
+    transform: scale(1.1);
+}
+
+.threeCards {
+    width: 300px;
+    height: 520px;
+    margin: 30px;
+    position: relative;
+    transition: 0.2s ease-in;
+    box-shadow: 0px 10px 30px black;
+    background: white;
+}
+
+.header {
+    background-image: url(pom.png);
+    width: 300px;
+    height: 500px;
+}
+
+
+.heder {
+    background-image: url(rf.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 500px;
+}
+
+
+.der {
+    background-image: url(ku.webp);
+    width: 300px;
+    height: 500px;
+}
+
+ #btn a {
+    text-decoration: none;
+    height: 50px;
+    width: 120px;
+    display: block;
+    margin: auto;
+    text-align: center;
+    line-height: 50px;
+    position: relative;
+    top: 10px;
+    border-radius: 30px;
+    border: 1px solid black;
+    color: black; 
+    position: relative;
+    top: -25px;
+    transition: 0.2s;
+ }
+
+ #btn a:hover {
+    transition: 0.2s;
+    background: black;
+    color: white;
+ }
+
+ #btn {
+     background: white;
+ }
+
+.center {
+    color: white;
+    font-size: 120px;
+}
+
+#bd {
+    display: flex;
+}
+
+#histoire {
+    display: flex;
+}
+
+
+.containeur {
+    cursor: pointer;
+}
+
+
+#video {
+    display: flex;
+    margin: 15px;
+}
+
+#histoire {
+    display: flex;
+    margin: 90px;
+}
+
+#bd{
+    display: flex;
+    margin: 90px;
+}
